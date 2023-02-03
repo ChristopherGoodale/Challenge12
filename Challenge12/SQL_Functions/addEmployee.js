@@ -7,7 +7,7 @@ const db = mysql2.createConnection(
         //MySQL username,
         user: 'root',
         //MySQL password
-        password: 'root',
+        password: '',
         database: 'tracker',
     },
 );
